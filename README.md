@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Zagesh
 
-<!--
-**zagesh7/zagesh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I didn't start out as a computer science guy.  
+I learned programming by building things, breaking them, and figuring out why they broke.
 
-Here are some ideas to get you started:
+These days I'm mostly working with Python and Django, building backend systems and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also getting deeper into C/C++, and how computers actually work under the hood.
+
+I don't know everything yet. I'm just trying to build better things than I did yesterday.
+
+### Currently
+Python · Django · PostgreSQL · Linux
+
+### Find me
+[LinkedIn](https://www.linkedin.com/in/zagesh/)
